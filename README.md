@@ -1,5 +1,3 @@
-Sure, here is a README file for a blogging website named UnpublishedClub made using React and Firebase:
-
 
 # UnpublishedClub
 
@@ -17,8 +15,8 @@ UnpublishedClub is a blogging website where users can create and share their tho
 To get started with UnpublishedClub, you will need to:
 
 1. Clone the repository.
-2. Install the dependencies by running ### npm i.
-3. Run the development server by running ### npm start.
+2. Install the dependencies by running npm i.
+3. Run the development server by running npm start.
 
 ## Dependencies
 
@@ -44,6 +42,6 @@ Contributions are welcome! If you would like to contribute to UnpublishedClub, p
 
 For any help and query contact me on abhay73abhay@gmail.com
 
-##Deployment Link
+## Deployment Link
 
 http://unpublishedclub.s3-website-ap-northeast-1.amazonaws.com/
